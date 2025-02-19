@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(201, 215, 156);
+}
+.user{
+    color: rgba(1, 1, 1, 0.921);
+}
+.post{
+    background-color: rgb(179, 179, 189);
+    color: rgb(8, 3, 3);
+}
+.btn{
+    color: white;
+    background-color: rgb(239, 61, 17);
+    border-radius: 10px 10px 10px 10px;
+
+    
+}
